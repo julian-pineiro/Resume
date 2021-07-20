@@ -97,4 +97,5 @@ Simple CRUD app made with NancyFX framework for C#.
 This is a monolytic script I built for a college party looking to email some invitation for a party, generating a random color invitation and sending it via SMTP protocol (aka email). I keep this code private, you can request access via email. It's one of my first coding projects.
 
 **Domotics project - Python (bad technology selected IMO)**
+
 This was a domotics project made with Python 3 to run on raspberry pi 3 distributed in a field, using a Sense-Compute-Control-like architecture. Configurations were done via GUI with Tkinter.
