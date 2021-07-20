@@ -22,7 +22,7 @@ The order and years below may be wrong for the older projects I'm less proud of.
 The idea behind this is to present a timeline of technologies I explored. 
 Just starting 2020 I believe I started doing higher quality projects and code.
 
-#### University Projects and Technologies
+### University Projects and Technologies
 
 **2021 
 UpTail - PHP (Laravel)**
@@ -70,7 +70,7 @@ I personally disliked this project because the framework was already unsupported
 
 This is a logical programming language I used in my Logic course. I have a full repository with solved practice exercises in these languages. Access can be granted by request.
 
-#### Side Projects
+### Side Projects
 
 **2021
 Turnos iCare - Javascript Frontend (Vue.js 2.0)**
